@@ -1,0 +1,7 @@
+1.Design the ui
+2.Determined the data fields and types
+3.Create Model class for data
+4.File generation via build runner code
+5.Register the adapters
+6.Create DB functions
+7.Connected to ui
